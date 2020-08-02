@@ -22,5 +22,4 @@ Here are some ideas to get you started:
 
 [![ReadMe ](https://github-readme-stats.vercel.app/api/pin/?username=dedsecinside&repo=torbot&theme=dark)](https://github.com/dedsecinside/torbot)
 
-[![ReadMe ](https://github-readme-stats.vercel.app/api/pin/?username=dedsecinside&repo=torbot&theme=dark)](https://github.com/dedsecinside/torbot)
 
