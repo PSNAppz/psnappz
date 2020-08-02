@@ -3,6 +3,9 @@
 My name is PS Narayanan and I'm a Sr. Software Developer/Backend Engineer. I'm from India, living in Kerala and currently working at Zartek technologies. You can find me on [![LinkedIn][3.2]][3].
 
 
+- 🤔 I’m looking for collaborators for my project __torBot__
+- 💬 Ask me about __tech__
+
 
 ## 🔧 Technologies & Tools
 
@@ -18,9 +21,6 @@ My name is PS Narayanan and I'm a Sr. Software Developer/Backend Engineer. I'm f
 ![](https://img.shields.io/badge/Code-Kotlin-informational?style=for-the-badge&logo=kotlin&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=for-the-badge&logo=windows&logoColor=white&color=2bbc8a)
 
-
-- 🤔 I’m looking for collaborators for my project __torBot__
-- 💬 Ask me about __tech__
 
 <!--
 **PSNAppz/psnappz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
