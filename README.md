@@ -31,12 +31,12 @@ My name is PS Narayanan and I'm a Sr. Software Developer/Backend Engineer. I'm f
 ## 💻 Github Stats
 
 <a href="https://github.com/psnappz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=psnappz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="PSN's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=psnappz&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true" alt="PSN's github stats" />
 </a>
 
 ## 🔬 Featured Project
 
-[![ReadMe ](https://github-readme-stats.vercel.app/api/pin/?username=dedsecinside&repo=torbot&theme=dark)](https://github.com/dedsecinside/torbot)
+[![ReadMe ](https://github-readme-stats.vercel.app/api/pin/?username=dedsecinside&repo=torbot&theme=graywhite)](https://github.com/dedsecinside/torbot)
 
 [3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 [3]: https://www.linkedin.com/in/0xpsn/
