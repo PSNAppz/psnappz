@@ -25,14 +25,7 @@ My name is PS Narayanan and I'm a Sr. Software Developer/Backend Engineer. I'm f
 <!--
 **PSNAppz/psnappz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
 -->
-
-## 💻 Github Stats
-
-<a href="https://github.com/psnappz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=psnappz&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true" alt="PSN's github stats" />
-</a>
 
 ## 🔬 Featured Project
 
