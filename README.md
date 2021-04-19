@@ -1,10 +1,18 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is PS Narayanan and I'm a Sr. Software Developer/Backend Engineer. I'm from India, living in Kerala and currently working at Zartek technologies. You can find me on [![LinkedIn][3.2]][3].
+I'm a Senior Software Developer/Backend Engineer from India, living in Kerala. 
+
+* Helped various clients to scale their applications🔑.
+* Has experience developing over 100+ apps 📱.
+* Experience in AWS Infrastructure ⚙️.
+* Open Source Enthusiast ❤️.
+* Co-Founder of NeOnSec🛡
+
+You can find me on [![LinkedIn][3.2]][3]
 
 
-- 🤔 I’m looking for collaborators for my project __torBot__
-- 💬 Ask me about __tech__
+- 🤔 I’m looking for collaborators for my Open Source project __torBot__
+- 💬 Ask me about __tech__ 
 
 
 ## 🔧 Technologies & Tools
