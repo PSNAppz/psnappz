@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I'm a Senior Software Developer/Backend Engineer from India, living in Kerala. 
+I'm a Senior Developer from India, living in Kerala. 
 
 * Helped various clients to scale their applications🔑.
 * Has experience developing over 100+ apps 📱.
