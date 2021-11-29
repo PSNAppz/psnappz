@@ -1,9 +1,8 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I'm a Senior Developer from India, living in Kerala. 
+I'm a Senior Backend Engineer from India, living in Kerala. 
 
 * Helped various clients to scale their applications🔑.
-* Has experience developing over 100+ apps 📱.
 * Experience in AWS Infrastructure ⚙️.
 * Open Source Enthusiast ❤️.
 * Co-Founder of NeOnSec🛡
@@ -31,7 +30,7 @@ You can find me on [![LinkedIn][3.2]][3]
 
 
 <!--
-**PSNAppz/psnappz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**PSNAppz/psnappz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile :).
 
 -->
 
