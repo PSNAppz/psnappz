@@ -11,6 +11,7 @@ You can find me on [![LinkedIn][3.2]][3]
 
 - 🤔 I’m currently working on __torBot__
 - 💬 Ask me about __python__, __cloud__, __and__, __tech stuff__
+- 👨‍💻 Learning about serverless architectures, distributed systems, and a bit of Security.
 
 
 ## 🔧 Technologies & Tools
