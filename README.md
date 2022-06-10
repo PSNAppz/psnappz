@@ -1,17 +1,16 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I'm a Senior Backend Engineer from India, living in Kerala. 
 
 * Helped various clients to scale their applications🔑.
-* Experience in AWS Infrastructure ⚙️.
+* Experience in AWS Cloud Infrastructure ⚙️.
 * Open Source Enthusiast ❤️.
 * Co-Founder of NeOnSec🛡
 
 You can find me on [![LinkedIn][3.2]][3]
 
 
-- 🤔 I’m looking for collaborators for my Open Source project __torBot__
-- 💬 Ask me about __tech__ 
+- 🤔 I’m currently working on __torBot__
+- 💬 Ask me about __python__, __cloud__, __and__, __tech stuff__
 
 
 ## 🔧 Technologies & Tools
@@ -36,7 +35,7 @@ You can find me on [![LinkedIn][3.2]][3]
 
 ## 🔬 Featured Project
 
-[![ReadMe ](https://github-readme-stats.vercel.app/api/pin/?username=dedsecinside&repo=torbot&theme=graywhite)](https://github.com/dedsecinside/torbot)
+[![ReadMe ](https://github-readme-stats.vercel.app/api/pin/?username=dedsecinside&repo=torbot&theme=tokyonight)](https://github.com/dedsecinside/torbot)
 
 [3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 [3]: https://www.linkedin.com/in/0xpsn/
