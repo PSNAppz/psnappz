@@ -13,6 +13,10 @@ You can find me on [![LinkedIn][3.2]][3]
 - 💬 Ask me about __python__, __cloud__, __and__, __tech stuff__
 - 👨‍💻 Learning about serverless architectures, distributed systems, and a bit of Security.
 
+## My Badges
+
+[![@psnappz's Holopin board](https://holopin.io/api/user/board?user=psnappz)](https://holopin.io/@psnappz)
+
 
 ## 🔧 Technologies & Tools
 
