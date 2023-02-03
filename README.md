@@ -24,6 +24,7 @@ You can find me on [![Linkedin Badge](https://img.shields.io/badge/-PS%20Narayan
 
 ![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![Gp](https://img.shields.io/badge/-Go-black?style=flat-square&logo=go)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![DjangoREST](https://img.shields.io/badge/RESTAPI-black?style=flat-square&logo=django)
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-black?style=flat-square&logo=elasticsearch)
