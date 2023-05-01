@@ -10,6 +10,9 @@
 
 You can find me on [![Linkedin Badge](https://img.shields.io/badge/-PS%20Narayanan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/0xpsn/)](https://www.linkedin.com/in/0xpsn/)
 
+ Hire me: [Fiverr Profile](https://www.fiverr.com/users/psnappz)
+
+
 
 - 🤔 I’m currently working on __torBot__
 - 💬 Ask me about __python__, __cloud__, __and__, __tech stuff__
@@ -48,9 +51,3 @@ You can find me on [![Linkedin Badge](https://img.shields.io/badge/-PS%20Narayan
 
 [![@psnappz's Holopin board](https://holopin.io/api/user/board?user=psnappz)](https://holopin.io/@psnappz)
 
-<h3 align="center">
-    ⬇⬇ Check my pinned projects below ⬇⬇
-</h3>
-<p align="center">
-    <i>Please take into account they are WIP!<i>
-</p>
