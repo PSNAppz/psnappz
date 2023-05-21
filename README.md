@@ -21,7 +21,7 @@ You can find me on [![Linkedin Badge](https://img.shields.io/badge/-PS%20Narayan
 
 ## LeetCode
 
-![](https://leetcard.jacoblin.cool/Gh0stWalk3r?theme=dark&ext=activity)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Gh0stWalk3r?theme=dark&font=Nunito&ext=activity)
 
 
 ### 🛠️ Languages and Tools:
