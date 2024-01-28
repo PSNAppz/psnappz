@@ -7,7 +7,7 @@
 
 * Helped various clients to scale their applications🔑.
 * Experience in AWS Cloud Infrastructure ⚙️.
-* Open Source Enthusiast ❤️.
+* Security & Open Source Enthusiast ❤️.
 * Co-Founder of NeOnSec🛡
 
 You can find me on [![Linkedin Badge](https://img.shields.io/badge/-PS%20Narayanan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/0xpsn/)](https://www.linkedin.com/in/0xpsn/)
@@ -16,7 +16,7 @@ You can find me on [![Linkedin Badge](https://img.shields.io/badge/-PS%20Narayan
 
 
 
-- 🤔 I’m currently working on __torBot__
+- 🤔 I’m currently working on __OpenG2P__
 - 💬 Ask me about __python__, __cloud__, __and__, __tech stuff__
 - 👨‍💻 Learning about serverless architectures, distributed systems, and a bit of Security.
 
